@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sufian-portfolio/static/css/main.8d045744.css",
+    "main.js": "/sufian-portfolio/static/js/main.0748542e.js",
+    "static/media/mee.png": "/sufian-portfolio/static/media/mee.f22a798cc3313e82f5e3.png",
+    "static/media/me-abouttt.jpg": "/sufian-portfolio/static/media/me-abouttt.fd5f13d505308d162a27.jpg",
+    "static/media/Sufian-CV.pdf": "/sufian-portfolio/static/media/Sufian-CV.f1d177275e4a0db8ce81.pdf",
+    "static/media/portfolio2.jpg": "/sufian-portfolio/static/media/portfolio2.f7553072c56c6bda86e9.jpg",
+    "static/media/portfolio4.jpg": "/sufian-portfolio/static/media/portfolio4.b4bc95f434e3f82d2119.jpg",
+    "static/media/portfolio5.jpg": "/sufian-portfolio/static/media/portfolio5.90ffc639333353f2760b.jpg",
+    "static/media/portfolio6.jpg": "/sufian-portfolio/static/media/portfolio6.59062ab685bed1e13c61.jpg",
+    "static/media/portfolio1.jpg": "/sufian-portfolio/static/media/portfolio1.fc3c99cc3cde1f0c5e79.jpg",
+    "static/media/portfolio3.jpg": "/sufian-portfolio/static/media/portfolio3.29f79b14f7fd868dc151.jpg",
+    "index.html": "/sufian-portfolio/index.html",
+    "main.8d045744.css.map": "/sufian-portfolio/static/css/main.8d045744.css.map",
+    "main.0748542e.js.map": "/sufian-portfolio/static/js/main.0748542e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d045744.css",
+    "static/js/main.0748542e.js"
+  ]
+}
